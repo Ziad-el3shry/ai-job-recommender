@@ -1,0 +1,9 @@
+BS in Computer Science, Electrical Engineering, Math, Physics, or other quantitative fields
+Experience in data science, solving complex problems with a focus on AI/ML techniques and privacy expertise
+Experience in implementing AI/ML algorithms, including deep learning and reinforcement learning models, while ensuring compliance with privacy and data protection laws
+Ability to work independently and solve complex problems with minimal supervision
+Strong critical thinking and ability to generate intuitive conclusions from complex datasets
+Excellent verbal and written communication skills, with a high attention to detail
+Proficiency in SQL and Python
+Solid understanding of machine learning algorithms, basic probability, and statistics
+Familiarity with AI/ML tools and frameworks (e.g., OpenAI, DeepSeek, ChatGPT, TensorFlow, PyTorch, Keras)
